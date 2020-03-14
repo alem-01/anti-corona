@@ -8,8 +8,8 @@
 
 ### кейсы
 
-1. [AGGREGATOR](https://github.com/alem-01/anti-corona/blob/master/cases/AGGREGATOR.MD)
-2. [CHATBOT](https://github.com/alem-01/anti-corona/blob/master/cases/CHATBOT.MD)
-3. [MONITORING](https://github.com/alem-01/anti-corona/blob/master/cases/MONITORING.MD)
+1. [AGGREGATOR](https://github.com/alem-01/anti-corona/blob/master/cases/1.AGGREGATOR.MD)
+2. [CHATBOT](https://github.com/alem-01/anti-corona/blob/master/cases/2.CHATBOT.MD)
+3. [MONITORING](https://github.com/alem-01/anti-corona/blob/master/cases/3.MONITORING.MD)
 
 Еще будут дополняться.
